@@ -25,34 +25,5 @@ pip install <module name>
  ![Ai-Virtual-Painter_f](https://user-images.githubusercontent.com/78357575/123515066-b808b300-d6b3-11eb-8082-97a67f5493c9.jpg)
 
 
-## Note :📝 
-Feel free to file a new issue with a respective title and description on the **AI-Virtual-Paint**. If you already found a solution to your problem, I would love to review your pull request! 
 
-## Contribution :📲
-1. Clone the repository 
-```
-$git clone https://github.com/Aayush9027/AI-Virtual-Paint.git
-```
-2. Check the status of your file 
-```
-$git status
-```
-
-3.For using VScode for editing your files 
-```
-$git code .
-```
-4. To directly add your files to github
-```
-$git add .
-```
-5. After writing your code commit your changes 
-```
-$git commit -m  <message>
-```
-6. To pull your code to reposoitory
-```
-$git push origin master
-```
-Thats all about installation and version control with **Git**
 
